@@ -1,0 +1,11 @@
+h1{
+  text-align:center;
+  color:red;
+}
+body{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKA3D0EZ6FCRLRvWUrxCrzDdpmYrZvQufUrcTio3zWHEk3ZfrJ&s");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+marquee{
+color:white}
